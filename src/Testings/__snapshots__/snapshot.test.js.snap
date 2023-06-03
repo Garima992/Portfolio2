@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shouldloadand display the table 1`] = `
+<DocumentFragment>
+  <div
+    class="main-table"
+  >
+    <div
+      class="text"
+    >
+      <h2>
+        Hero
+      </h2>
+      <div
+        data-testid="hero"
+        id="name"
+      >
+        hulk
+      </div>
+    </div>
+    <table
+      class="table"
+    >
+      <thead>
+        <tr>
+          <th>
+            ID
+          </th>
+          <th>
+            Name
+          </th>
+          <th>
+            Email
+          </th>
+          <th>
+            Phone
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            1
+          </td>
+          <td>
+            John Doe
+          </td>
+          <td>
+            john@example.com
+          </td>
+          <td>
+            777-777-7777
+          </td>
+        </tr>
+        <tr>
+          <td>
+            2
+          </td>
+          <td>
+            Jane Lane
+          </td>
+          <td>
+            jane@example.com
+          </td>
+          <td>
+            555-555-5555
+          </td>
+        </tr>
+        <tr>
+          <td>
+            3
+          </td>
+          <td>
+            Bob Smith
+          </td>
+          <td>
+            bobb@example.com
+          </td>
+          <td>
+            222-222-2222
+          </td>
+        </tr>
+        <tr>
+          <td>
+            4
+          </td>
+          <td>
+            Alice Murray
+          </td>
+          <td>
+            alice@example.com
+          </td>
+          <td>
+            111-111-1111
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    key=1
+    key=2
+    key=3
+    key=4
+  </div>
+</DocumentFragment>
+`;

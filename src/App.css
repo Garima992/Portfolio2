@@ -1,0 +1,206 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.page-center{
+  width: 800px!important;
+  margin-top: 20px;
+ 
+}
+
+.no-link{
+  text-decoration:none;
+   color:white;
+}
+
+.garima{
+  transition-property: opacity, transform;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-optical-sizing: auto;
+    text-align: start;
+    opacity: 1;
+    font-family: "Ceviche_One variant0", Tofu;
+    line-height: initial;
+    transition-duration: 350ms;
+    color:white;
+    font-size: xx-large;
+}
+
+.decor{
+  text-decoration: underline;
+}
+
+a.social {
+  margin: 5px;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+
+
+a.facebook {
+  color: #4968ad;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.instagram {
+  color: black;
+}
+
+.no-decor{
+  text-decoration: none;
+  float: left;
+  margin-right: 10px;
+}
+
+.p{
+  margin-left: 22px;
+}
+
+.slider{
+  color:black
+}
+
+.intro-name{
+  color:#394867;
+  text-align: center;
+}
+
+.h1-center{
+  text-align: center;
+}
+
+.center{
+  align-self: center;
+}
+
+.img-space{
+  margin-right: 15px;
+}
+
+.hr{
+  position: relative;
+  top: 20px;
+ width: 200px;
+  height: 12px;
+  color:aqua;
+  background: aqua;
+  margin-bottom: 50px;
+}
+
+.img-margin{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.quote{
+  color:goldenrod;
+}
+
+.about-name{
+  text-align: center;
+  font-size: x-large;
+}
+
+.port-button{
+  margin-right: 10px;
+  color: white;
+  background: black;
+  border-radius: 10px;
+}
+.port-image{
+      margin: 0px 20px 10px 0px;
+    border: black;
+    border-style: groove;
+}
+
+.center2{
+  text-align: center;
+  
+}
+
+.hr-width{
+  height: 12px;
+  color: aqua;
+  background: aqua;
+}
+
+.h-decor{
+  text-decoration: underline;
+}
+
+.m-bottom{
+  margin-bottom: 10px;
+}
+
+.banner{
+  background-color: black;
+  height: 200px;
+
+}
+
+.h2-decor{
+  color: white;
+  text-align: center;
+  Padding-top: 20px ;
+}
+
+.cv-button{
+ border-color: white !important; 
+ background-color: black !important;
+ color: white !important;
+padding: 10px !important;
+font-size: large !important;
+border-radius: 10px !important;
+margin-right: 20px !important;
+}
+
+.cv-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
