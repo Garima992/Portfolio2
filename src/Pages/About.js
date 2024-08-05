@@ -16,6 +16,7 @@ function About() {
 <p><i><strong>"Enthusiastic Full Stack web3 developer"</strong></i><br/>Like every developer, I love to code and solve complex problems, even if it gets a lot of time and effort. 
 At the end of the day, nothing gives more satisfaction than a successful code run. </p>
 <p>Besides the work part, I am fond of Movies, Music and Reading. Whether its a fiction, drama, science, or spiritual content, I enjoy reading across all genres.
+  <p>I am working on AI tools also to update myself.</p>
 </p><br/>
 <p className='quote'><i><strong>"Difficult Roads Often Leads To Beautiful Destinations."</strong></i></p>
 
